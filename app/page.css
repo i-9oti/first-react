@@ -1,0 +1,57 @@
+.heder {
+  background-color: rgb(8, 119, 82);
+  box-shadow: 0px 10px 30px black;
+  margin-bottom: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 15vh;
+}
+.heder h1 {
+  font-size: 30px;
+}
+
+.title {
+  border: 4px solid;
+  border-color: rgb(8, 106, 74);
+  padding: 15px;
+  width: 500px;
+  text-align: center;
+  margin: 20px;
+}
+.title h1 {
+  font-weight: bold;
+  color: black;
+  padding: 20px;
+}
+.title h3 {
+  padding: 20px;
+  color: rgb(165, 165, 165);
+}
+.Butt {
+  background-color: rgb(93, 2, 87);
+  color: aliceblue;
+  padding: 5px;
+  border-radius: 9px;
+  box-shadow: 1px 10px 5px rgb(44, 42, 42);
+  margin: 10px;
+}
+
+.Buttons {
+  align-items: center;
+  justify-items: center;
+  justify-content: center;
+  align-self: flex-start;
+  border: 4px solid rgb(2, 119, 2);
+  margin: 20px;
+  width: 250px;
+  height: auto;
+}
+
+.ll {
+  display: flex;
+  
+  align-items: center;
+  justify-content: center;
+}
