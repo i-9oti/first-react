@@ -44,6 +44,7 @@ export default function Home() {
               >
                 +
               </button>
+              <br />
               <button
                 onClick={(e) => {
                   e.preventDefault();
